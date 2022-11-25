@@ -20,7 +20,7 @@ Para copiar o codigo html:
 
 <h2 style="text-align: center; font-size: 20px"><em><strong>Sobre Neymar.</h2>
 
-  <p style="font-size: 20px">Neymar da Silva Santos Júnior, mais conhecido apenas como Neymar, é um futebolista brasileiro que atua como atacante. Atualmente joga pelo Paris Saint-Germain e pela Seleção Brasileira. É considerado o principal futebolista brasileiro da atualidade e um dos melhores futebolistas do mundo.</p>
+  <p style="font-size: 20px"> Neymar da Silva Santos Júnior, mais conhecido apenas como Neymar, é um futebolista brasileiro que atua como atacante. Atualmente joga pelo Paris Saint-Germain e pela Seleção Brasileira. É considerado o principal futebolista brasileiro da atualidade e um dos melhores futebolistas do mundo. </p>
 
   <h3 style="text-align: center; font-size: 20px">Nascimento.</h3>
 
